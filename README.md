@@ -84,21 +84,22 @@ SQL was used for:
 - Rating analysis
 - Date-based analysis
 
-# Dashboard Preview
+## Dashboard Preview
 
 # Overall Analysis
-![Overall Dashboard](./Dashboard/Overall.png)
+![Overall Dashboard](./Overall.png)
 
 # Vehicle Type Analysis
-![Vehicle Type Dashboard](./Dashboard/Vehicle_Type.png)
+![Vehicle Type Dashboard](./Vehicle_Type.png)
 
 # Revenue Analysis
-![Revenue Dashboard](./Dashboard/Revenue.png)
+![Revenue Dashboard](./Revenue.png)
+
 # Cancellation Analysis
-![Cancellation Dashboard](./Dashboard/Cancellation.png)
+![Cancellation Dashboard](./Cancellation.png)
 
 # Ratings Analysis
-![Ratings Dashboard](./Dashboard/Ratings.png)
+![Ratings Dashboard](./Ratings.png)
 
 # Skills Demonstrated
 SQL | Power BI | DAX | Power Query | Data Analysis | Data Visualization | Business Intelligence
